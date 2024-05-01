@@ -1,0 +1,9 @@
+pageFactory\HomePage.class
+pageFactory\RegisterPage.class
+pageFactory\AccountPage.class
+utilities\CommonUtilis.class
+utilities\configReader.class
+pageFactory\SearchResultPage.class
+pageFactory\AccountSuccessPage.class
+pageFactory\LoginPage.class
+utilities\ElementsUtilies.class
